@@ -5,11 +5,11 @@ Steps to build ntrip server:-
 
 1. Ntrip server can be made using u-center which only runs on windows, by setting up the Time mode 3 parameter it starts the survey-in process by putting the time period and desired accuracy required.
 
-   ![](C:\Users\Bhaskar\Desktop\New folder\RTK_Correction_Send\Images\first.PNG)
+   ![](https://github.com/bhaskarsdose/RTK_Correction_Send/blob/master/Images/first.PNG)
 
 2. After or In between the survey-in process go to receiver on the u-center top panel and choose Ntrip server/caster option.
 
-   ![](C:\Users\Bhaskar\Desktop\New folder\RTK_Correction_Send\Images\Second.png)
+   ![](https://github.com/bhaskarsdose/RTK_Correction_Send/blob/master/Images/Second.png)
 
 3. Set up the name, mount name, username, password for your ntrip server that's it.
 
